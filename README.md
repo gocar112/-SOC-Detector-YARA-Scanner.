@@ -5,6 +5,7 @@ Before running the script, you need to install the yara-python library:
 
 Bash
 pip install yara-python
+
 2. Setup Configuration
 In the # --- CONFIGURATION --- section of your code (lines 16-21), ensure the paths match your environment:
 
